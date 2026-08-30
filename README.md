@@ -1,3 +1,8 @@
+![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-green)
+![Windows Server](https://img.shields.io/badge/Windows_Server-2025-blue)
+![Active Directory](https://img.shields.io/badge/Active_Directory-DS-0052CC)
+![VMware](https://img.shields.io/badge/VMware-Workstation_Pro-orange)
+
 # Enterprise ServiceNow IT Support Lab
 
 ## Overview
