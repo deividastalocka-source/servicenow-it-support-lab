@@ -8,7 +8,7 @@ ServiceNow acts as the central service desk platform while Windows Server provid
 
 ### Enterprise Lab Environment
 
-![Enterprise Architecture Diagram](../Assets/Enterprise%20Architecture%20Diagram.png)
+![Enterprise Architecture Diagram](../screenshots/Enterprise%20Architecture%20Diagram.png)
 
 ---
 
