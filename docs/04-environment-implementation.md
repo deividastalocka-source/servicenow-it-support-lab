@@ -27,7 +27,7 @@ The Windows 11 Enterprise virtual machine was successfully created and booted in
 
 ### Implementation Evidence
 
-![IT01 Windows 11 Desktop](../Screenshots/01%20-%20IT01%20Windows%2011%20Desktop.png)
+![IT01 Windows 11 Desktop](../screenshots/01%20-%20IT01%20Windows%2011%20Desktop.png)
 
 ---
 
@@ -52,7 +52,7 @@ The IT Support workstation was successfully configured and ready for further sof
 
 ### Implementation Evidence
 
-![Configured IT Support Workstation](../Screenshots/02%20-%20Configured%20IT%20Support%20Workstation.png)
+![Configured IT Support Workstation](../screenshots/02%20-%20Configured%20IT%20Support%20Workstation.png)
 
 ---
 
@@ -77,7 +77,7 @@ IT01 successfully joined the Active Directory domain. Domain user authentication
 
 ### Implementation Evidence
 
-![IT01 Joined to Domain](../Screenshots/03%20-%20IT01%20Joined%20to%20Domain.png)
+![IT01 Joined to Domain](../screenshots/03%20-%20IT01%20Joined%20to%20Domain.png)
 
 ---
 
@@ -100,7 +100,7 @@ The ServiceNow Developer account was successfully created and access to the Deve
 
 ### Implementation Evidence
 
-![ServiceNow Developer Portal](../Screenshots/04%20-%20ServiceNow%20Developer%20Portal.png)
+![ServiceNow Developer Portal](../screenshots/04%20-%20ServiceNow%20Developer%20Portal.png)
 
 ---
 
@@ -126,7 +126,7 @@ The Personal Developer Instance was successfully provisioned and was accessible 
 
 ### Implementation Evidence
 
-![Personal Developer Instance](../Screenshots/05%20-%20Personal%20Developer%20Instance.png)
+![Personal Developer Instance](../screenshots/05%20-%20Personal%20Developer%20Instance.png)
 
 ---
 
@@ -150,7 +150,7 @@ The ServiceNow Personal Developer Instance was successfully accessed and the adm
 
 ### Implementation Evidence
 
-![ServiceNow Home Page](../Screenshots/06%20-%20ServiceNow%20Home%20Page.png)
+![ServiceNow Home Page](../screenshots/06%20-%20ServiceNow%20Home%20Page.png)
 
 ---
 
@@ -174,7 +174,7 @@ The ServiceNow environment was successfully accessed and the key modules require
 
 ### Implementation Evidence
 
-![Company Configuration](../Screenshots/07%20-%20Company%20Configuration.png)
+![Company Configuration](../screenshots/07%20-%20Company%20Configuration.png)
 
 ---
 
