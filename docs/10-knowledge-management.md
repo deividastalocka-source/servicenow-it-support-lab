@@ -14,9 +14,9 @@ The knowledge article was created within ServiceNow to document the Active Direc
 
 ### Implementation Evidence
 
-![Knowledge Article Created](../Screenshots/36%20-%20Knowledge%20Article%20Created.png)
+![Knowledge Article Created](../screenshots/36%20-%20Knowledge%20Article%20Created.png)
 
-![Knowledge Article Completed](../Screenshots/37%20-%20Knowledge%20Article%20Completed.png)
+![Knowledge Article Completed](../screenshots/37%20-%20Knowledge%20Article%20Completed.png)
 
 ---
 
