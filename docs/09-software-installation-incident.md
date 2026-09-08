@@ -26,11 +26,11 @@ Investigate the user's software request and confirm that the required applicatio
 
 ### Implementation Evidence
 
-![Software Installation Incident Created](../Screenshots/30%20-%20Software%20Installation%20Incident%20Created.png)
+![Software Installation Incident Created](../screenshots/30%20-%20Software%20Installation%20Incident%20Created.png)
 
-![Software Installation Investigation](../Screenshots/31%20-%20Software%20Installation%20Investigation.png)
+![Software Installation Investigation](../screenshots/31%20-%20Software%20Installation%20Investigation.png)
 
-![7-Zip Not Installed](../Screenshots/32%20-%207-Zip%20Not%20Installed.png)
+![7-Zip Not Installed](../screenshots/32%20-%207-Zip%20Not%20Installed.png)
 
 ### Verification
 
@@ -54,11 +54,11 @@ Install the requested software and verify that it was successfully deployed to t
 
 ### Implementation Evidence
 
-![7-Zip Successfully Installed](../Screenshots/33%20-%207-Zip%20Successfully%20Installed.png)
+![7-Zip Successfully Installed](../screenshots/33%20-%207-Zip%20Successfully%20Installed.png)
 
-![7-Zip Context Menu Verified](../Screenshots/34%20-%207-Zip%20Context%20Menu%20Verified.png)
+![7-Zip Context Menu Verified](../screenshots/34%20-%207-Zip%20Context%20Menu%20Verified.png)
 
-![Software Installation Incident Resolved](../Screenshots/35%20-%20Software%20Installation%20Incident%20Resolved.png)
+![Software Installation Incident Resolved](../screenshots/35%20-%20Software%20Installation%20Incident%20Resolved.png)
 
 ### Verification
 
