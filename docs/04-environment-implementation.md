@@ -15,9 +15,9 @@ Create a dedicated Windows 11 Enterprise workstation for the IT support technici
 
 ### Implementation Evidence
 
-![IT01 Windows 11 Desktop](screenshots/01%20-%20IT01%20Windows%2011%20Desktop.png)
+![IT01 Windows 11 Desktop](../Screenshots/01%20-%20IT01%20Windows%2011%20Desktop.png)
 
-![Configured IT Support Workstation](screenshots/02%20-%20Configured%20IT%20Support%20Workstation.png)
+![Configured IT Support Workstation](../Screenshots/02%20-%20Configured%20IT%20Support%20Workstation.png)
 
 ### Verification
 
@@ -40,7 +40,7 @@ Join the IT support workstation to the existing Active Directory domain to provi
 
 ### Implementation Evidence
 
-![IT01 Joined to Domain](screenshots/03%20-%20IT01%20Joined%20to%20Domain.png)
+![IT01 Joined to Domain](../Screenshots/03%20-%20IT01%20Joined%20to%20Domain.png)
 
 ### Verification
 
@@ -63,11 +63,11 @@ Configure a ServiceNow Personal Developer Instance to provide the service manage
 
 ### Implementation Evidence
 
-![ServiceNow Developer Portal](screenshots/04%20-%20ServiceNow%20Developer%20Portal.png)
+![ServiceNow Developer Portal](../Screenshots/04%20-%20ServiceNow%20Developer%20Portal.png)
 
-![Personal Developer Instance](screenshots/05%20-%20Personal%20Developer%20Instance.png)
+![Personal Developer Instance](../Screenshots/05%20-%20Personal%20Developer%20Instance.png)
 
-![ServiceNow Home Page](screenshots/06%20-%20ServiceNow%20Home%20Page.png)
+![ServiceNow Home Page](../Screenshots/06%20-%20ServiceNow%20Home%20Page.png)
 
 ### Verification
 
@@ -89,7 +89,7 @@ Configure the ServiceNow environment to represent the organisation used througho
 
 ### Implementation Evidence
 
-![Company Configuration](screenshots/07%20-%20Company%20Configuration.png)
+![Company Configuration](../Screenshots/07%20-%20Company%20Configuration.png)
 
 ### Verification
 
