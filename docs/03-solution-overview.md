@@ -6,10 +6,6 @@ The solution combines the Enterprise Active Directory Infrastructure Lab with a 
 
 ServiceNow acts as the central service desk platform while Windows Server provides the underlying infrastructure used to resolve support requests.
 
-### Enterprise Lab Environment
-
-![Enterprise Lab Environment](../screenshots/Enterprise-Lab-Environment.png)
-
 ---
 
 ## Support Workflow
