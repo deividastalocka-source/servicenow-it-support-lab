@@ -15,7 +15,7 @@ Create a dedicated Windows 11 Enterprise workstation for the IT support technici
 
 ### Implementation Evidence
 
-![IT01 Windows 11 Desktop](../screenshots/01%20-%20IT01%20Windows%2011%20Desktop.png)
+![IT01 Windows 11 Desktop](<../screenshots/01 - IT01 Windows 11 Desktop.png>)
 
 ![Configured IT Support Workstation](../screenshots/02%20-%20Configured%20IT%20Support%20Workstation.png)
 
