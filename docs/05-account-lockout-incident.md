@@ -23,15 +23,15 @@ Determine the cause of the authentication failure and restore the user's access.
 - Located Michael Brown's user account.
 - Confirmed the account was locked following multiple failed sign-in attempts.
 
+### Implementation Evidence
+
+![Incident Created](../Screenshots/08%20%E2%80%93%20Incident%20Created.png)
+
+![Michael Brown Account Locked](../Screenshots/09%20-%20Michael%20Brown%20Account%20Locked.png.png)
+
 ### Verification
 
 The account lockout was confirmed as the cause of the authentication issue.
-
-### Implementation Evidence
-
-![Incident Created](../Screenshots/08%20-%20Incident%20Created.png)
-
-![Michael Brown Account Locked](../Screenshots/09%20-%20Michael%20Brown%20Account%20Locked.png.png)
 
 ---
 
@@ -50,10 +50,6 @@ Restore user access and complete the incident.
 - Changed the incident state to Resolved.
 - Closed the incident after user confirmation.
 
-### Verification
-
-Michael Brown successfully authenticated to the domain and confirmed that access to the Windows workstation had been restored.
-
 ### Implementation Evidence
 
 ![Michael Brown Account Unlocked](../Screenshots/10%20-%20Michael%20Brown%20Account%20Unlocked.png)
@@ -61,6 +57,10 @@ Michael Brown successfully authenticated to the domain and confirmed that access
 ![Michael Brown Successful Sign-in](../Screenshots/11%20-%20Michael%20Brown%20Successful%20Sign-in.png)
 
 ![Incident Closed](../Screenshots/11%20-%20Incident%20Closed.png)
+
+### Verification
+
+Michael Brown successfully authenticated to the domain and confirmed that access to the Windows workstation had been restored.
 
 ---
 
