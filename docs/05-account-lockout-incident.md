@@ -26,7 +26,7 @@ Investigate the user's sign-in issue and identify the cause of the authenticatio
 
 ### Implementation Evidence
 
-![Incident Created](../screenshots/08%20-%20Incident%20Created.png)
+![Incident Created](../screenshots/08%20%E2%80%93%20Incident%20Created.png)
 
 ![Michael Brown Account Locked](../screenshots/09%20-%20Michael%20Brown%20Account%20Locked.png.png)
 
