@@ -26,7 +26,7 @@ A ServiceNow knowledge article was also created to document a repeatable Active 
 
 ## Enterprise Architecture
 
-![Enterprise Architecture Diagram](Assets/Enterprise%20Architecture%20Diagram.png)
+![Architecture Diagram](screenshots/Architecture%20Diagram.png)
 
 The environment consists of:
 
@@ -100,9 +100,6 @@ Full implementation documentation is available below.
 ```text
 servicenow-it-support-lab/
 │
-├── Assets/
-│   └── Enterprise Architecture Diagram.png
-│
 ├── docs/
 │   ├── 01-project-overview.md
 │   ├── 02-lab-environment.md
@@ -117,6 +114,7 @@ servicenow-it-support-lab/
 │   └── 11-conclusion-and-lessons-learned.md
 │
 ├── screenshots/
+│   ├── Architecture Diagram.png
 │   └── Implementation evidence
 │
 ├── LICENSE
