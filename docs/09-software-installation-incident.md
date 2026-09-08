@@ -30,6 +30,8 @@ Investigate the user's software request and confirm that the required applicatio
 
 ![Software Installation Investigation](../Screenshots/31%20-%20Software%20Installation%20Investigation.png)
 
+![7-Zip Not Installed](../Screenshots/32%20-%207-Zip%20Not%20Installed.png)
+
 ### Verification
 
 The workstation was confirmed to require the installation of 7-Zip before the user could access compressed files.
@@ -52,11 +54,9 @@ Install the requested software and verify that it was successfully deployed to t
 
 ### Implementation Evidence
 
-![7-Zip Installation](../Screenshots/32%20-%207-Zip%20Installation.png)
+![7-Zip Successfully Installed](../Screenshots/33%20-%207-Zip%20Successfully%20Installed.png)
 
-![7-Zip Installed](../Screenshots/33%20-%207-Zip%20Installed.png)
-
-![7-Zip Verification](../Screenshots/34%20-%207-Zip%20Verification.png)
+![7-Zip Context Menu Verified](../Screenshots/34%20-%207-Zip%20Context%20Menu%20Verified.png)
 
 ![Software Installation Incident Resolved](../Screenshots/35%20-%20Software%20Installation%20Incident%20Resolved.png)
 
