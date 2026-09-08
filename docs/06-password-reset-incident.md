@@ -4,9 +4,9 @@
 
 ### Incident Summary
 
-Emma Wilson contacted the IT Service Desk after forgetting her Windows password and was unable to sign in to her workstation. Following identity verification, the incident was logged in ServiceNow and assigned to the IT Support team.
+Emma Wilson contacted the IT Service Desk after being unable to access her domain account because she had forgotten her password.
 
-The password was reset in Active Directory and the user successfully signed in using a new password.
+The request was investigated, the user's password was reset in Active Directory and the user was required to change the temporary password at the next sign-in. Successful access was verified before the ServiceNow incident was resolved.
 
 ---
 
@@ -14,24 +14,25 @@ The password was reset in Active Directory and the user successfully signed in u
 
 ### Purpose
 
-Investigate the reported authentication issue and determine the appropriate action to restore the user's access.
+Investigate the user's authentication issue and determine the appropriate action required to restore access to the domain account.
 
 ### Procedure
 
 - Reviewed the incident details in ServiceNow.
 - Changed the incident state to In Progress.
-- Verified the user's identity.
-- Confirmed that a password reset was required.
+- Confirmed that Emma Wilson required a password reset.
+- Accessed Active Directory Users and Computers.
+- Located Emma Wilson's domain account.
 
 ### Implementation Evidence
 
-![Password Reset Incident Created](../Screenshots/12%20-%20Incident%20Password%20Reset%20Created.png)
+![Password Reset Incident Created](../screenshots/12%20-%20Incident%20Password%20Reset%20Created.png)
 
-![Password Reset Investigation](../Screenshots/13%20-%20Password%20Reset%20Investigation.png)
+![Password Reset Investigation](../screenshots/13%20-%20Password%20Reset%20Investigation.png)
 
 ### Verification
 
-The issue was confirmed to be a forgotten password requiring a password reset.
+The investigation confirmed that a password reset was required to restore access to Emma Wilson's domain account.
 
 ---
 
@@ -39,30 +40,29 @@ The issue was confirmed to be a forgotten password requiring a password reset.
 
 ### Purpose
 
-Reset the user's password and restore access to the domain.
+Reset the user's domain password and verify that the user could successfully regain access to the account.
 
 ### Procedure
 
-- Opened Active Directory Users and Computers.
-- Located the Emma Wilson account.
-- Reset the password.
-- Selected **User must change password at next logon**.
-- Provided the temporary password to the user.
-- Confirmed successful sign-in and password change.
-- Updated the ServiceNow incident.
-- Resolved and closed the ticket.
+- Reset Emma Wilson's password in Active Directory.
+- Configured the account to require a password change at the next sign-in.
+- Provided the temporary password for the initial sign-in.
+- Signed in using the temporary credentials.
+- Changed the password when prompted.
+- Verified successful access to the domain account.
+- Updated and resolved the ServiceNow incident.
 
 ### Implementation Evidence
 
-![Emma Wilson Password Reset](../Screenshots/14%20-%20Emma%20Wilson%20Password%20Reset.png)
+![Emma Wilson Password Reset](../screenshots/14%20-%20Emma%20Wilson%20Password%20Reset.png)
 
-![Password Successfully Changed](../Screenshots/15%20-%20Password%20Successfully%20Changed.png)
+![Password Successfully Changed](../screenshots/15%20-%20Password%20Successfully%20Changed.png)
 
-![Password Reset Incident Resolved](../Screenshots/16%20-%20Password%20Reset%20Incident%20Resolved.png)
+![Password Reset Incident Resolved](../screenshots/16%20-%20Password%20Reset%20Incident%20Resolved.png)
 
 ### Verification
 
-The user successfully signed in using the new password and confirmed access had been restored.
+Emma Wilson successfully changed the temporary password and regained access to the domain account. The ServiceNow incident was then resolved.
 
 ---
 
