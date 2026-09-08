@@ -4,9 +4,9 @@
 
 ### Incident Summary
 
-Sarah Jones from the Human Resources department contacted the IT Service Desk after receiving an Access Denied message when attempting to access the HR network share.
+Sarah Jones from the HR department contacted the IT Service Desk after receiving an Access Denied message when attempting to access the HR shared folder.
 
-The incident was logged in ServiceNow and investigated by the IT Support team. The issue was traced to incorrect sharing permissions on the network share. After restoring the required permissions, access was successfully verified and the incident was resolved.
+The issue was investigated and identified as incorrect sharing permissions. The required permissions were restored, access to the shared folder was verified and the ServiceNow incident was resolved.
 
 ---
 
@@ -14,27 +14,29 @@ The incident was logged in ServiceNow and investigated by the IT Support team. T
 
 ### Purpose
 
-Investigate the reported access issue and determine why the user was unable to access the HR network share.
+Investigate the user's shared folder access issue and determine why access to the HR departmental share was being denied.
 
 ### Procedure
 
 - Reviewed the incident details in ServiceNow.
 - Changed the incident state to In Progress.
-- Reviewed the HR shared folder configuration.
-- Confirmed the reported Access Denied behaviour.
-- Identified incorrect sharing permissions on the network share.
+- Confirmed that Sarah Jones was unable to access the HR shared folder.
+- Tested access to the shared folder from the user's workstation.
+- Verified that an Access Denied message was displayed.
+- Reviewed the sharing permissions configured on the HR shared folder.
+- Identified incorrect permissions as the cause of the access issue.
 
 ### Implementation Evidence
 
-![Shared Folder Incident Created](../Screenshots/17%20-%20Shared%20Folder%20Incident%20Created.png)
+![Shared Folder Incident Created](../screenshots/17%20-%20Shared%20Folder%20Incident%20Created.png)
 
-![Shared Folder Investigation](../Screenshots/18%20-%20Shared%20Folder%20Investigation.png.png)
+![Shared Folder Investigation](../screenshots/18%20-%20Shared%20Folder%20Investigation.png.png)
 
-![HR Shared Folder Access Denied](../Screenshots/19%20-%20HR%20Shared%20Folder%20Access%20Denied.png)
+![HR Shared Folder Access Denied](../screenshots/19%20-%20HR%20Shared%20Folder%20Access%20Denied.png)
 
 ### Verification
 
-The issue was confirmed to be caused by incorrect sharing permissions on the HR network share.
+Testing confirmed that Sarah Jones was unable to access the HR shared folder due to incorrect sharing permissions.
 
 ---
 
@@ -42,27 +44,27 @@ The issue was confirmed to be caused by incorrect sharing permissions on the HR 
 
 ### Purpose
 
-Restore access to the HR network share by correcting the sharing permissions.
+Restore the required permissions and verify that the user could successfully access the HR shared folder.
 
 ### Procedure
 
-- Opened the HR folder properties.
-- Reviewed the sharing configuration.
-- Restored the required sharing permissions.
-- Verified that the user could successfully access the shared folder.
+- Corrected the sharing permissions on the HR shared folder.
+- Applied the updated permissions.
+- Tested access from the user's workstation.
+- Confirmed that Sarah Jones could successfully access the shared folder.
 - Updated and resolved the ServiceNow incident.
 
 ### Implementation Evidence
 
-![HR Share Permissions Restored](../Screenshots/20%20-%20HR%20Share%20Permissions%20Restored.png)
+![HR Share Permissions Restored](../screenshots/20%20-%20HR%20Share%20Permissions%20Restored.png)
 
-![HR Shared Folder Access Restored](../Screenshots/21%20-%20HR%20Shared%20Folder%20Access%20Restored.png)
+![HR Shared Folder Access Restored](../screenshots/21%20-%20HR%20Shared%20Folder%20Access%20Restored.png)
 
-![Shared Folder Incident Resolved](../Screenshots/22%20-%20Shared%20Folder%20Incident%20Resolved.png)
+![Shared Folder Incident Resolved](../screenshots/22%20-%20Shared%20Folder%20Incident%20Resolved.png)
 
 ### Verification
 
-The user successfully accessed the HR network share after the sharing permissions were restored.
+Sarah Jones successfully accessed the HR shared folder after the sharing permissions were corrected, confirming that access had been restored. The ServiceNow incident was then resolved.
 
 ---
 
